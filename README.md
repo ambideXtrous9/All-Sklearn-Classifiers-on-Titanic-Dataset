@@ -1,12 +1,10 @@
 # All-Sklearn-Classifiers-on-Titanic-Dataset
 All Sklearn Classifiers on Titanic Dataset
 
+![image](https://user-images.githubusercontent.com/31372586/202669993-3d9ce634-9b69-4e5c-a8cc-0152d0c03c9b.png)
 ![image](https://user-images.githubusercontent.com/31372586/201288737-a7a208ad-5ebc-422e-9336-4761c9cca213.png)
-![image](https://user-images.githubusercontent.com/31372586/201288806-75079e2c-84a5-41ff-8a07-d413fe5f97ef.png)
-![image](https://user-images.githubusercontent.com/31372586/201288820-e89f3c66-d748-47b4-8b63-6246fc19c8ac.png)
-![image](https://user-images.githubusercontent.com/31372586/201288835-71c6e9b8-4f6b-44af-ac14-85ce3f7412cd.png)
-![image](https://user-images.githubusercontent.com/31372586/201288857-5c2346d7-8675-4db3-8e30-e7e8ce85ccda.png)
+![image](https://user-images.githubusercontent.com/31372586/202670064-5d94f6b0-0ec9-4452-ab60-a818b477b8b1.png)
 ![image](https://user-images.githubusercontent.com/31372586/201289094-51b19129-af24-4697-b579-09d3549b7b58.png)
 ![image](https://user-images.githubusercontent.com/31372586/201288885-8ff4b9d6-096b-4d63-b1af-7dc94c487951.png)
-![image](https://user-images.githubusercontent.com/31372586/201288895-87277235-61da-4509-8f7e-fdc3c522b455.png)
 ![image](https://user-images.githubusercontent.com/31372586/201288912-1fe84c53-ea89-40ae-ac0e-10dd2290f765.png)
+![image](https://user-images.githubusercontent.com/31372586/202670091-09e3d915-444d-406d-8859-8225554d9f53.png)
